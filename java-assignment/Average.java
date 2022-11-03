@@ -1,3 +1,5 @@
+// program to find average of 6 subjects
+
 import java.util.Scanner;
 
 public class Average {

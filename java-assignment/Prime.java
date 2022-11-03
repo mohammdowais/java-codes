@@ -1,3 +1,5 @@
+// is your number prime?
+
 import java.util.Scanner;
 
 public class Prime {
@@ -27,6 +29,7 @@ public class Prime {
       if (n % i == 0) {
         System.out.println("Not Prime");
         flag = 0;
+        break;
       }
     }
     if (flag == 1) {

@@ -1,3 +1,5 @@
+// Is the number pallindrom?
+
 import java.util.Scanner;
 
 public class Pallindrome {

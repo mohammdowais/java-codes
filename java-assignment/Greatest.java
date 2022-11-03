@@ -1,3 +1,5 @@
+//Graeatest of three
+
 import java.util.Scanner;
 
 public class Greatest {

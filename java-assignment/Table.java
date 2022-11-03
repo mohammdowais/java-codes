@@ -1,3 +1,6 @@
+// two one are....?
+// program to print multiplication table of a number
+
 import java.util.Scanner;
 
 public class Table {
