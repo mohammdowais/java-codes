@@ -8,14 +8,14 @@ public class Pattern {
     System.out.println("\nPattern one");
     for (int i = 0; i < n; i++) {
       for (int j = 0; j < n; j++) {
-        System.out.print(n);
+        System.out.print(n + " ");
       }
       System.out.println();
     }
     System.out.println("\nPattern two");
     for (int i = 0; i < n; i++) {
       for (int j = 1; j < n - i; j++) {
-        System.out.print(j);
+        System.out.print(j + " ");
       }
       System.out.println();
     }
@@ -24,7 +24,7 @@ public class Pattern {
     for (int i = 1; i <= n; i++) {
       for (int j = 1; j <= i; j++) {
 
-        System.out.print((char) k++);
+        System.out.print((char) k++ + " ");
       }
       System.out.println();
     }

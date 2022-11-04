@@ -5,7 +5,7 @@ public class NoOfCharacter {
     Scanner sc = new Scanner(System.in);
     System.out.println("Enter any string: ");
     String str = sc.nextLine();
-    System.out.println(str.length());
+    System.out.println("Number of characters in string are:" + str.length());
 
   }
 }
