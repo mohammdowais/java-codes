@@ -5,7 +5,7 @@ public class ASCII {
     Scanner sc = new Scanner(System.in);
     System.out.print("Enter any charcater: ");
     int ch = sc.next().charAt(0);
-    System.out.println("ASCII value of " + ch + " is: " + ch);
+    System.out.println("ASCII value of " + (char) ch + " is: " + ch);
 
   }
 }

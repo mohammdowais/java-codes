@@ -12,10 +12,10 @@ public class Calculator {
     System.out.println("Choose an operator: +, -, *, or /");
     operator = input.next().charAt(0);
 
-    System.out.println("Enter first number");
+    System.out.println("Enter first number:");
     number1 = input.nextDouble();
 
-    System.out.println("Enter second number");
+    System.out.println("Enter second number:");
     number2 = input.nextDouble();
 
     int flag = 0;

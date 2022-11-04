@@ -10,7 +10,7 @@ public class Even {
     System.out.println(n + " Even Numbers are:");
     for (int i = 0; i < n * 2; i++) {
       if (i % 2 == 0) {
-        System.out.println(i);
+        System.out.print(i + " ");
       }
     }
 

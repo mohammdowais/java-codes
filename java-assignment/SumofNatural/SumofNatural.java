@@ -7,6 +7,6 @@ public class SumofNatural {
     int a = sc.nextInt();
     int l = sc.nextInt();
     int n = l - a + 1;
-    System.out.println("Sum of numbers from" + a + " to " + l + " is: " + n * (a + l) / 2);
+    System.out.println("Sum of numbers from " + a + " to " + l + " is: " + n * (a + l) / 2);
   }
 }
