@@ -1,0 +1,1 @@
+# These are some beginner friendly java codes
